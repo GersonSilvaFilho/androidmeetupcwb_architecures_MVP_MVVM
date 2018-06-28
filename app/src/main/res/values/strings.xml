@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidMeetupCwb</string>
+    <string name="title_activity_score_mvp">MVP</string>
+    <string name="title_activity_score_mvvm">MVVM</string>
+</resources>
